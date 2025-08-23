@@ -1,0 +1,136 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+    width: 100vw;
+}
+header {
+  width: 100vw;
+  height: 80px;
+}
+nav {
+  width: 100%;
+  height: 100%;
+  background-color: #ffffff;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+nav img{
+    height: 68px;
+}
+nav>aside>li{
+  list-style-type: none;
+}
+nav>aside>li>a{
+    
+    text-decoration: none;
+    font-size: 20px;
+    font-weight: bold;
+    color: #f37c4d ;
+    
+}
+nav>aside>li>a:hover{
+    color: gray;
+}
+#Navbars{
+    display: flex;
+    padding-left:20px;
+    gap: 20px
+    
+    
+}
+#logo{
+  display: flex;
+  width: 300px;  
+}
+.search{
+  
+  width: 90%;
+  padding: 8px; 
+  padding-left: 10px  ;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  height: 100%;
+}
+main{
+    width: 100vw;
+    padding: 40px ;
+    background: linear-gradient(135deg, #ffecd2, #fcb69f); /* warm gradient */
+    display: flex;
+    flex-wrap: wrap;
+    gap: 60px;
+    
+}
+#product_container{
+    flex-basis: 300px;
+    background-color: white;
+    padding-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    box-shadow: 3px 3px 20px 3px rgb(98, 98, 98);
+    border-radius: 15px;
+    transition: all 0.5s;
+}
+main>div>img{
+  width: 100%;
+  height: 300px;
+  border-top-left-radius: 15px;
+  border-top-right-radius: 15px;
+  
+}
+.details{
+  padding: 10px 15px;
+  color: #ee8055 ;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+}
+.snacks_name{
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 20px;
+
+}
+.weight{
+  font-size: 15px;
+  color: rgb(135, 133, 133);
+  font-weight: bold;
+}
+.rating_price{
+  padding: 5px 15px;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+}
+.ratingCount{
+  padding-left: 5px;
+  color: gray;
+}
+.addCartBtn{
+  width: 50%;
+  
+  padding: 10px; 
+  background-color: #ba4607;  
+  font-family: Oswald, sans-serif;
+  font-weight: bold;
+  border-color: #ba4607;
+  color:white;
+  text-align: center;
+  border-radius: 5px;
+}
+.addCart{
+  padding: 0px 15px;
+  padding-top: 10px;
+  display: flex;
+  justify-content: center;
+}
+
+
+

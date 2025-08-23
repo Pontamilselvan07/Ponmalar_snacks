@@ -1,0 +1,257 @@
+[
+    {
+    "id": 1,
+    "title": "Mixture",
+    "price": 40,
+    "weight": "100gm",
+    "description": "Crunchy mix of nuts and spices",
+    "category": "spicy",
+    "image": "img_src/mixture.webp",
+    "rating": {
+      "rate": 4.7,
+      "count": 120
+    }
+  },
+  {
+    "id": 2,
+    "title": "Sattur Seeval",
+    "price": 30,
+    "weight": "100gm",
+    "description": "Crispy ribbon snack with spicy flavor",
+    "category": "spicy",
+    "image": "img_src/seeval.webp",
+    "rating": {
+      "rate": 5,
+      "count": 32
+    }
+  },
+  {
+    "id": 3,
+    "title": "Milagu Sevu",
+    "price": 30,
+    "weight": "100gm",
+    "description": "Pepper flavored sev, spicy crunchy taste",
+    "category": "spicy",
+    "image": "img_src/milagu_sev.webp",
+    "rating": {
+      "rate": 4.3,
+      "count": 36
+    }
+  },
+   {
+    "id": 4,
+    "title": "Laddu",
+    "price": 35,
+    "weight": "100gm",
+    "description": "Sweet round balls made with ghee",
+    "category": "sweet",
+    "image": "img_src/laddu.webp",
+    "rating": {
+      "rate": 4,
+      "count": 62
+    }
+  },
+   {
+    "id": 5,
+    "title": "Seeni Sevu",
+    "price": 30,
+    "weight": "100gm",
+    "description": "",
+    "category": "sweet",
+    "image": "img_src/seeni_sev.jpg",
+    "rating": {
+      "rate": 3.5,
+      "count": 19
+    }
+  },
+  {
+    "id": 6,
+    "title": "Andhra Murukku",
+    "price": 30,
+    "weight": "100gm",
+    "description": "",
+    "category": "spicy",
+    "image": "img_src/andhra_murukku.webp",
+    "rating": {
+      "rate": 4.5,
+      "count": 32
+    }
+  },
+  {
+    "id": 7,
+    "title": "Masala Kadalai",
+    "price": 35,
+    "weight": "100gm",
+    "description": "",
+    "category": "spicy",
+    "image": "img_src/kadalai_pakkoda.webp",
+    "rating": {
+      "rate": 5,
+      "count": 69
+    }
+  },
+   {
+    "id": 8,
+    "title": "Kadalai Mittai",
+    "price": 30,
+    "weight": "100gm",
+    "description": "",
+    "category": "sweet",
+    "image": "img_src/kadalai_mittai.jpg",
+    "rating": {
+      "rate": 4,
+      "count": 26
+    }
+    
+  },
+  {
+    "id": 9,
+    "title": "Adhirasam",
+    "price": 70,
+    "weight": "10pcs",
+    "description": "",
+    "category": "sweet",
+    "image": "img_src/adhirasam.webp",
+    "rating": {
+      "rate": 4,
+      "count": 26
+    }
+
+
+  },
+  {
+    "id": 10,
+    "title": "Sevu",
+    "price": 35,
+    "weight": "200gm",
+    "description": "",
+    "category": "spicy",
+    "image": "img_src/sev.jpg",
+    "rating": {
+      "rate": 4,
+      "count": 26
+    }
+  },
+   {
+    "id": 11,
+    "title": "Sweet Boondhi",
+    "price": 35,
+    "weight": "200gm",
+    "description": "",
+    "category": "spicy",
+    "image": "img_src/boondhi.jpg",
+    "rating": {
+      "rate": 4,
+      "count": 26
+    }
+  },
+   {
+    "id": 12,
+    "title": "Special Mixture",
+    "price": 35,
+    "weight": "200gm",
+    "description": "",
+    "category": "spicy",
+    "image": "img_src/potato_chips.jpg",
+    "rating": {
+      "rate": 4,
+      "count": 26
+    }
+  },
+  {
+    "id": 13,
+    "title": "Omapodi",
+    "price": 35,
+    "weight": "200gm",
+    "description": "",
+    "category": "spicy",
+    "image": "img_src/omapodi.webp",
+    "rating": {
+      "rate": 4,
+      "count": 26
+    }
+  },
+    {
+    "id": 14,
+    "title": "Navathaniyam",
+    "price": 35,
+    "weight": "200gm",
+    "description": "",
+    "category": "spicy",
+    "image": "img_src/navathaniyam.webp",
+    "rating": {
+      "rate": 4,
+      "count": 26
+    }
+  },
+    {
+    "id": 15,
+    "title": "Roasted Groundnut",
+    "price": 35,
+    "weight": "200gm",
+    "description": "",
+    "category": "spicy",
+    "image": "img_src/kadalai_paruppu.jpg",
+    "rating": {
+      "rate": 4,
+      "count": 26
+    }
+  },
+   {
+    "id": 16,
+    "title": "Potato Chips",
+    "price": 35,
+    "weight": "200gm",
+    "description": "",
+    "category": "spicy",
+    "image": "img_src/potato_chips.jpg",
+    "rating": {
+      "rate": 4,
+      "count": 26
+    }
+  },
+  {
+    "id": 17,
+    "title": "Kappa Chips",
+    "price": 35,
+    "weight": "200gm",
+    "description": "",
+    "category": "spicy",
+    "image": "img_src/kappa_chips.webp",
+    "rating": {
+      "rate": 4,
+      "count": 26
+    }
+  },
+  {
+    "id": 18,
+    "title": "Pattru Sevu",
+    "price": 35,
+    "weight": "200gm",
+    "description": "",
+    "category": "spicy",
+    "image": "img_src/pattru_sev.webp",
+    "rating": {
+      "rate": 4,
+      "count": 26
+    }
+  },
+    {
+    "id": 19,
+    "title": "Murkku",
+    "price": 70,
+    "weight": "10pcs",
+    "description": "",
+    "category": "spicy",
+    "image": "img_src/murukku.jpg",
+    "rating": {
+      "rate": 4,
+      "count": 26
+    }
+  }
+ 
+  
+  
+  
+  
+]
